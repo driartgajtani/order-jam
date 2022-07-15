@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://pngroyale.com/wp-content/uploads/2021/11/Download-coca-cola-bottle-png-hd-768x768.png",
+        "promotion": "Sponsored",
+        "title": "Coca-Cola",
+        "size": "0.5l",
+        "price": "CHF 5.35",
+        "color": "#FFF6F0"
+    },
+    {
+        "id": 2,
+        "image": "https://pngroyale.com/wp-content/uploads/2022/03/Red-Bull-PNG-Background-Image-png.png",
+        "promotion": "Sponsored",
+        "title": "Red Bull",
+        "size": "0.5l",
+        "price": "CHF 6.19",
+        "color": "#F1F5FE"
+    },
+    {
+        "id": 3,
+        "image": "https://www.shortysliquor.com.au/media/catalog/product/cache/31c831e646b0e3d5fc6a02c7bbf2f6a4/s/p/sprite-classic-soft-drink-24-x-330ml-glass.png",
+        "promotion": "Sponsored",
+        "title": "Sprite",
+        "size": "0.5l",
+        "price": "CHF 4.95",
+        "color": "#ECFFEB"
+    },
+    {
+        "id": 4,
+        "image": "https://images.contentstack.io/v3/assets/bltbb619fd5c667ba2d/blt945c08e27946fa74/6095bdc8cf14c84a993df2ec/Monster_1800X1800_transparent.png?width=760",
+        "promotion": "Sponsored",
+        "title": "Monster Energy",
+        "size": "0.5l",
+        "price": "CHF 4.64",
+        "color": "#EAF2FD"
+    },
+    {
+        "id": 5,
+        "image": "https://pngroyale.com/wp-content/uploads/2021/11/Download-coca-cola-bottle-png-hd-768x768.png",
+        "promotion": "Sponsored",
+        "title": "Coca-Cola",
+        "size": "0.5l",
+        "price": "CHF 5.35",
+        "color": "#FFF6F0"
+    },
+    {
+        "id": 6,
+        "image": "https://pngroyale.com/wp-content/uploads/2022/03/Red-Bull-PNG-Background-Image-png.png",
+        "promotion": "Sponsored",
+        "title": "Red Bull",
+        "size": "0.5l",
+        "price": "CHF 6.19",
+        "color": "#F1F5FE"
+    },
+    {
+        "id": 7,
+        "image": "https://www.shortysliquor.com.au/media/catalog/product/cache/31c831e646b0e3d5fc6a02c7bbf2f6a4/s/p/sprite-classic-soft-drink-24-x-330ml-glass.png",
+        "promotion": "Sponsored",
+        "title": "Sprite",
+        "size": "0.5l",
+        "price": "CHF 4.95",
+        "color": "#ECFFEB"
+    },
+    {
+        "id": 8,
+        "image": "https://images.contentstack.io/v3/assets/bltbb619fd5c667ba2d/blt945c08e27946fa74/6095bdc8cf14c84a993df2ec/Monster_1800X1800_transparent.png?width=760",
+        "promotion": "Sponsored",
+        "title": "Monster Energy",
+        "size": "0.5l",
+        "price": "CHF 4.64",
+        "color": "#EAF2FD"
+    }
+]
