@@ -1,0 +1,23 @@
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    padding: 25px;
+}
+
+.skip {
+    color: #FF6600;
+}
+
+.btn-primary{
+    background-color: #FF6600;
+    border: none;
+    outline: none;
+    box-shadow: 8px 8px 24px 0px rgb(255 137 59 / 41%);
+    border-radius: 9999px;
+    height: 55px;
+    margin-top: -15px;
+    width: 100%;
+}

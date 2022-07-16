@@ -1,1 +1,31 @@
-<p>order-product works!</p>
+<div class="d-flex justify-content-center">
+  <h1 class="title" [innerHTML]="'TITLE' | translate "></h1>
+</div>
+
+<div class="container">
+    <div *ngFor="let item of products;let index = index" class="product" [ngClass]="{'move': index > 0}">
+        <div class="d-flex">
+          <div class="product-img" [ngStyle]="{'background-color': item.color}">
+            <img width="74" height="74" [src]="item.image" alt="" />
+          </div>
+          <div class="product_info">
+            <span class="promotion">{{item.promotion}}</span>
+            <br>
+            <span class="product_name">{{item.title}} <span class="product_size">{{item.size}}</span></span>
+            <br>
+            <div class="row">
+                <div class="col-6">
+                    <span class="product_price">{{item.price}}</span>
+                </div>
+                <div class="col-6">
+                    <div class="increment_product">
+                        <button class="decrement" (click)="decrement(item)">-</button>
+                        <div class="number">{{item.quantity}}</div>
+                        <button class="increment" (click)="increment(item)">+</button>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>

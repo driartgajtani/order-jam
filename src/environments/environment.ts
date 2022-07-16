@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  dataJsonApiUrl: 'https://api.jsonbin.io/v3/qs/62d1b396b34ef41b73c16c63'
+  dataJsonApiUrl: 'https://api.jsonbin.io/v3/b/62d2b5315ecb581b56bff2a8'
 };
 
 /*
